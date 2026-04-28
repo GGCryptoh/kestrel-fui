@@ -6,7 +6,17 @@
 ![No Build](https://img.shields.io/badge/build-none-brightgreen)
 ![Single File](https://img.shields.io/badge/single--file-HTML-orange)
 
-**[▶ Live demo](#)** *(enable GitHub Pages on this repo to populate the link)*
+**[▶ Live demo](https://ggcryptoh.github.io/kestrel-fui/)**
+
+---
+
+## A small note on getting this built
+
+The first model I asked refused, on Usage Policy grounds, to build a fictional spy dashboard:
+
+![Claude Code refusing to build this on Usage Policy grounds](screenshots/claude-blocked-this-build.png)
+
+The second one shipped it in a Saturday afternoon. Reader, this is a single HTML file with some animated SVG fingerprints. Be brave.
 
 ---
 
