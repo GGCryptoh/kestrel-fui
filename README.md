@@ -92,6 +92,23 @@ Replace the strings, change the photos, ship a different episode.
 - Mark Coleran ([coleran.com](https://coleran.com/)) — coined "FUI." His reels are the canonical reference.
 - The book [*Make It So: Interaction Design Lessons from Sci-Fi*](https://rosenfeldmedia.com/books/make-it-so/) by Shedroff & Noessel.
 
+## Share it
+
+Paste-ready LinkedIn post (~150 words, no AI-slop arcs):
+
+> Spent a Saturday building the kind of fictional ops dashboard you see on a Bourne-era MI6 desk, and put it on GitHub.
+>
+> Draggable windows. A radar with a topographic wireframe under it. Procedurally generated fingerprints and iris scans — with proper minutiae overlays, not just decorative whorls. Five named "associates" you can cycle with arrow keys. Redacted dossiers with rubber-stamp CLASSIFIED. A side dock that spawns hit contracts, city blueprints, plot threads.
+>
+> One HTML file. No build. No backend. Layout persists via localStorage so it remembers what you had open.
+>
+> The TV industry calls this a "playback graphic" — the on-set screen prop a character actually looks at. Studios like Territory and Perception do it for a living. Mine's free, MIT, and a fun toy.
+>
+> ▶ https://ggcryptoh.github.io/kestrel-fui/
+> ▶ https://github.com/GGCryptoh/kestrel-fui
+>
+> \#FUI #ScreenGraphics #UIDesign
+
 ## License
 
 MIT — see [LICENSE](LICENSE). Use it for student films, indie shows, ARGs, teaching, portfolio pieces. If you ship it on something with a real audience, a credit is appreciated but not required.
